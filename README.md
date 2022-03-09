@@ -1,4 +1,4 @@
 # RecoilMacro
 
 
-A Simple recoil macro.
+A Simple very small recoil macro with mouse_event.
